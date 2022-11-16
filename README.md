@@ -6,4 +6,4 @@ voor later is het leuk om dingen te veranderen zoals:
   het gebruik van declaritive programming (functional programming)
   het toevoegen van tests (noodzakelijk nu nog geen ervaring mee)
   het toevoegen van spring boot
-  en eventueel spring combineren met angular (ypeScript gebaseerd front-end framework)
+  en eventueel spring combineren met angular (typeScript gebaseerd front-end framework)
